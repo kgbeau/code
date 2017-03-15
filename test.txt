@@ -1,3 +1,1 @@
 ## Git test 3/15/2017
-
-- learning git
